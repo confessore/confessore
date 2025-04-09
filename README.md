@@ -40,6 +40,14 @@ Bachelor’s Degree
 
 ---
 
+## 🏆 Achievements
+
+### **Arctic Code Vault Contributor**  
+**2020 – GitHub Archive Program**  
+› Contributed code to several repositories which were archived to hardened film designed to last for 1,000 years, and stored in the GitHub Arctic Code Vault in a decommissioned coal mine deep beneath an Arctic mountain in Svalbard, Norway.
+
+---
+
 ## 🛠️ Technologies & Tools
 
 - **Containerization & Orchestration:** Kubernetes (OpenShift, Tanzu), Docker, ProxMox, Talos  
