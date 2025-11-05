@@ -1,5 +1,5 @@
 ### Steven Confessore
-**Software Dev Analyst**
+**Software Dev Analyst (Solutions Architect)**
 📧 steven.confessore@gmail.com
 🔗 [linkedin.com/in/confessore](https://linkedin.com/in/confessore)
 💻 [github.com/confessore](https://github.com/confessore)
@@ -13,7 +13,7 @@
 ## 💼 Experience
 
 ### **Lockheed Martin**
-**Software Dev Analyst**
+**Software Dev Analyst (Solutions Architect)**
 _2023 – Present_
 - Collaborate directly with customers to understand challenges and define pain points.
 - Translate client needs into actionable technical requirements and software design.
