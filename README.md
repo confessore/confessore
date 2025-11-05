@@ -1,5 +1,5 @@
 ### Steven Confessore
-**Senior Software Engineer**
+**Software Dev Analyst**
 📧 steven.confessore@gmail.com
 🔗 [linkedin.com/in/confessore](https://linkedin.com/in/confessore)
 💻 [github.com/confessore](https://github.com/confessore)
@@ -13,7 +13,7 @@
 ## 💼 Experience
 
 ### **Lockheed Martin**
-**Senior Software Engineer**
+**Software Dev Analyst**
 _2023 – Present_
 - Collaborate directly with customers to understand challenges and define pain points.
 - Translate client needs into actionable technical requirements and software design.
@@ -50,11 +50,16 @@ _2009 – Present_
 ## 🎓 Education
 
 **University of North Florida**
-Bachelor’s Degree
+Bachelor of Arts in Psychology
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
+### **Reinforcement Learning Skill Certified**
+**2025 – Lockheed Martin**
+
+### **MLOps Skill Certified**
+**2025 – Lockheed Martin**
 
 ### **Arctic Code Vault Contributor**
 **2020 – GitHub Archive Program**
@@ -64,18 +69,19 @@ Bachelor’s Degree
 
 ## 🛠️ Technologies & Tools
 
-- **Containerization & Orchestration:** Kubernetes (OpenShift, Tanzu), Docker, ProxMox, Talos
+- **Containerization & Orchestration:** Kubernetes (OpenShift, Palette), Docker/Podman, ProxMox, Talos
 - **CI/CD & DevOps:** GitLab CI, ArgoCD, Harbor
 - **Cloud & Infrastructure:** AWS, Self-hosted Infrastructure
-- **Languages & Frameworks:** C#, Blazor (Interactive Auto), SQL, .NET, Xamarin
+- **Languages & Frameworks:** C#, Blazor (Interactive Auto, Wasm, Server), SQL, .NET, Xamarin/MAUI
 - **Databases:** Experienced with handling and managing databases for various applications and projects.
-- **Automation Scripts:** Proficient in writing automation scripts for quality of life purposes, with experience dating back to at least 2010.
+- **Automation Scripts:** Proficient in writing automation scripts for quality of life purposes, with experience dating back to at least 2006.
 - **Monitoring & Deployment:** Custom pipelines, GitOps, automation tooling
 
 ---
 
 ## 💡 Interests
 
+- 👾 DotA
 - 🧪 Laboratory tinkering and self-hosted solutions
 - 👨‍👦 Spending time with my son
 - 🐈 Cat dad life
