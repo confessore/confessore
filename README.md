@@ -5,7 +5,7 @@
     Full Stack Software Engineer
   </h2>
   <p style="margin:2px 0;font-size:13px;">
-    📧 <a href="mailto:email">email</a> |
+    📧 <a href="mailto:placeholder">placeholder</a> |
     🔗 <a href="https://linkedin.com/in/confessore">linkedin.com/in/confessore</a> |
     💻 <a href="https://github.com/confessore">github.com/confessore</a>
   </p>
@@ -58,7 +58,7 @@
       <br>
       <strong style="color:#2563eb;">Professional Experience</strong>
       <br>
-      <em style="color:#0891b2;">Software Solutions Architect – Lockheed Martin (2023‑Present)</em><br>
+      <em style="color:#0891b2;">Software Dev Analyst – Lockheed Martin (2023‑Present)</em><br>
         – <strong>Pulse</strong> – Enterprise data visualization platform enabling reports for labor hours, labor runtime and standards earned. <em style="color:#0891b2;">Blazor WebAssembly, EF Core, OpenID Connect</em><br>
         – <strong>TPAC (Tool Placard Archive & Control)</strong> – Manufacturing compliance system providing tool placard management, revision tracking, and audit capabilities across multiple sites. <em style="color:#0891b2;">Blazor Server, CQRS/MediatR, Clean Architecture, S3 storage</em><br>
         – <strong>TTL (Torque Test & Logging)</strong> – Cross‑platform calibration system providing real‑time equipment monitoring for technicians with auto‑update capabilities. <em style="color:#0891b2;">Avalonia (desktop), Blazor (web), SignalR, MVVM</em><br>
