@@ -1,89 +1,79 @@
-### Steven Confessore
-**Software Dev Analyst (Solutions Architect)**
-📧 steven.confessore@gmail.com
-🔗 [linkedin.com/in/confessore](https://linkedin.com/in/confessore)
-💻 [github.com/confessore](https://github.com/confessore)
+<!-- HERO SECTION (full‑width) -->
+<div style="text-align:center;padding:8px 0;margin-bottom:4px;">
+  <h1 style="margin:0;font-size:28px;">Steven Confessore</h1>
+  <h2 style="margin:2px 0;font-size:18px;font-weight:normal;color:#555;">
+    Software Dev Analyst (Solutions Architect) • Software Development / Solutions Architecture
+  </h2>
+  <p style="margin:2px 0;font-size:13px;">
+    📧 <a href="mailto:steven.confessore@gmail.com">steven.confessore@gmail.com</a> |
+    🔗 <a href="https://linkedin.com/in/confessore">linkedin.com/in/confessore</a> |
+    💻 <a href="https://github.com/confessore">github.com/confessore</a>
+  </p>
+</div>
 
----
-
-### 🚀 _I rapidly design, build, and deploy enterprise-grade software that is scalable, maintainable, and user-centric._
-
----
-
-## 💼 Experience
-
-### **Lockheed Martin**
-**Software Dev Analyst (Solutions Architect)**
-_2023 – Present_
-- Collaborate directly with customers to understand challenges and define pain points.
-- Translate client needs into actionable technical requirements and software design.
-- Architect and implement robust solutions that directly address business problems.
-- Deploy and manage applications through modern CI/CD pipelines leveraging **Kubernetes**, **ArgoCD**, and container orchestration.
-- Ensure high system availability and operational excellence through proactive monitoring and observability.
-- Own, manage and maintain at least 13 individual projects
-
-### **Balanced Solutions Software**
-**Founder & Consultant**
-_2021 – Present_
-- Operate a fully virtualized and containerized **cluster**, powering research, experimentation, and client solutions.
-- Provide freelance consulting services to small businesses and local residents.
-- Specialize in systems integration, automation, and cloud-native deployments.
-- Explore and experiment with the latest in DevOps tooling, container platforms, and distributed systems.
-
-### **Champs Software**
-**Software Engineer**
-_2019_
-- Contributed to the development of a .NET Xamarin mobile CMMS (Computerized Maintenance Management System).
-- Gained experience with cross-platform mobile application development using Xamarin.
-
-### **Freelance and Personal Projects**
-**Mobile Application and Website Developer**
-_2009 – Present_
-- Designed and developed multiple mobile applications and websites for various clients.
-- Utilized a range of technologies and frameworks to deliver high-quality solutions.
-- Built a robot for a popular MMO (Massively Multiplayer Online) game, demonstrating expertise in automation and scripting.
-- Developed and implemented automation scripts for quality of life purposes, showcasing proficiency in scripting languages.
-- Designed and deployed multiple relational databases to support various applications, with experience dating back to before 2010.
-- Hosted and managed applications on Linux servers since before 2010, gaining hands-on experience with system administration and deployment.
-- Experimented with and implemented various self-hosted solutions in my lab, including containerization, automation, and monitoring tools.
-
-## 🎓 Education
-
-**University of North Florida**
-Bachelor of Arts in Psychology
-
----
-
-## 🏆 Achievements & Certifications
-### **Reinforcement Learning Skill Certified**
-**2025 – Lockheed Martin**
-
-### **MLOps Skill Certified**
-**2025 – Lockheed Martin**
-
-### **Arctic Code Vault Contributor**
-**2020 – GitHub Archive Program**
-› Contributed code to several repositories which were archived to hardened film designed to last for 1,000 years, and stored in the GitHub Arctic Code Vault in a decommissioned coal mine deep beneath an Arctic mountain in Svalbard, Norway.
-
----
-
-## 🛠️ Technologies & Tools
-
-- **Containerization & Orchestration:** Kubernetes (OpenShift, Palette), Docker/Podman, ProxMox, Talos
-- **CI/CD & DevOps:** GitLab CI, ArgoCD, Harbor
-- **Cloud & Infrastructure:** AWS, Self-hosted Infrastructure
-- **Languages & Frameworks:** C#, Blazor (Interactive Auto, Wasm, Server), SQL, .NET, Xamarin/MAUI
-- **Databases:** Experienced with handling and managing databases for various applications and projects.
-- **Automation Scripts:** Proficient in writing automation scripts for quality of life purposes, with experience dating back to at least 2006.
-- **Monitoring & Deployment:** Custom pipelines, GitOps, automation tooling
-
----
-
-## 💡 Interests
-
-- 👾 DotA
-- 🧪 Laboratory tinkering and self-hosted solutions
-- 👨‍👦 Spending time with my son
-- 🐈 Cat dad life
-- 🎸 Playing acoustic guitar
-- 📺 Watching anime & geeking out on cool tech
+<!-- TWO‑COLUMN BODY (compact table) -->
+<table style="width:100%;border-collapse:collapse;font-size:13px;line-height:1.4;">
+  <tr>
+    <!-- LEFT COLUMN (~1/3) -->
+    <td style="vertical-align:top;width:34%;padding:0 8px 0 0;">
+      <strong>Core Competencies</strong>
+      <br>
+        • Multi‑platform application architecture • Clean Architecture & CQRS patterns • Enterprise solutions design • CI/CD pipeline engineering • Kubernetes & container orchestration • Requirements analysis & translation • System observability & reliability • Cross‑functional team collaboration
+      <br>
+      <br>
+      <strong>Technical Skills</strong>
+      <br>
+        • C#, .NET, Blazor, EF Core, MediatR, SignalR, Avalonia, Xamarin/MAUI, SQL, Git, Linux, Docker, Podman, Proxmox, Talos, OpenShift, Palette, GitLab CI, ArgoCD, Harbor, AWS S3, GitOps, Clean Architecture, CQRS
+      <br>
+      <br>
+      <strong>Education</strong><br>
+        BA, Psychology – University of North Florida, Jacksonville, FL
+      <br>
+      <br>
+      <strong>Certifications</strong>
+      <br>
+        • Reinforcement Learning – Lockheed Martin (2025)<br>
+        • MLOps – Lockheed Martin (2025)<br>
+        • AI/ML Ethics & Security – Lockheed Martin (2025)
+      <br>
+      <br>
+      <strong>Awards & Honors</strong>
+      <br>
+        • Arctic Code Vault – GitHub Archive (2020)
+      <br>
+      <br>
+      <strong>Volunteer / Projects</strong>
+      <br>
+        • Personal Lab – design & deployment of self‑hosted, containerized services
+      <br>
+      <br>
+      <strong>References available upon request.</strong>
+    </td>
+    <!-- RIGHT COLUMN (~2/3) -->
+    <td style="vertical-align:top;width:66%;padding:0 0 0 8px;">
+      <strong>Professional Summary</strong>
+      <br>
+        Strategic Software Development Analyst / Solutions Architect with <strong>10+ years</strong> of enterprise software experience, including <strong>2+ years at Lockheed Martin</strong>. Specializes in architecting multi‑platform, mission‑critical applications that drive operational efficiency and business value. Expert in translating complex business requirements into scalable solutions using <strong>Clean Architecture</strong>, <strong>CQRS</strong>, <strong>Kubernetes</strong>, and <strong>GitOps</strong> methodologies.
+      <br>
+      <br>
+      <strong>Professional Experience</strong>
+      <br>
+        <em>Software Dev Analyst – Lockheed Martin (2023‑Present)</em><br>
+          – Direct customer collaboration to define requirements and translate business needs into technical solutions.<br>
+          – Architect and implement enterprise‑grade, container‑native applications using Kubernetes, ArgoCD, and GitOps practices.<br>
+          – Lead development of 12+ concurrent projects spanning manufacturing, data management, and equipment calibration domains.<br>
+          – Design and deploy multi‑platform solutions (desktop + web) serving technicians, engineers, and administrators.<br>
+          – Implement Clean Architecture and CQRS patterns to ensure maintainability and scalability across mission‑critical systems.<br>
+          – Establish automated CI/CD pipelines with semantic versioning, reducing deployment time and improving reliability.<br>
+          – Proactive monitoring and incident response, ensuring high availability for production systems.
+      <br>
+      <br>
+      <strong>Key Project Achievements</strong>
+      <br>
+        – <strong>Pulse</strong> – Enterprise data visualization platform enabling reports for labor hours, labor runtime and standards earned. <em>Blazor WebAssembly, EF Core, OpenID Connect</em><br>
+        – <strong>TPAC (Tool Placard Archive & Control)</strong> – Manufacturing compliance system providing tool placard management, revision tracking, and audit capabilities across multiple sites. <em>Blazor Server, CQRS/MediatR, Clean Architecture, S3 storage</em><br>
+        – <strong>TTL (Torque Test & Logging)</strong> – Cross‑platform calibration system providing real‑time equipment monitoring for technicians with auto‑update capabilities. <em>Avalonia (desktop), Blazor (web), SignalR, MVVM</em>
+      <br>
+    </td>
+  </tr>
+</table>
