@@ -5,6 +5,7 @@
     Full Stack Software Engineer
   </h2>
   <p style="margin:2px 0;font-size:13px;">
+    📧 <a href="mailto:email">email</a> |
     🔗 <a href="https://linkedin.com/in/confessore">linkedin.com/in/confessore</a> |
     💻 <a href="https://github.com/confessore">github.com/confessore</a>
   </p>
@@ -31,14 +32,14 @@
       <br>
       <strong style="color:#2563eb;">Certifications</strong>
       <br>
-        • Reinforcement Learning – Lockheed Martin (2025)<br>
-        • MLOps – Lockheed Martin (2025)<br>
-        • AI/ML Ethics & Security – Lockheed Martin (2025)
+        • Reinforcement Learning – Lockheed Martin<br>
+        • MLOps – Lockheed Martin<br>
+        • AI/ML Ethics & Security – Lockheed Martin
       <br>
       <br>
       <strong style="color:#2563eb;">Awards & Honors</strong>
       <br>
-        • Arctic Code Vault – GitHub Archive (2020)
+        • Arctic Code Vault – GitHub Archive
       <br>
       <br>
       <strong style="color:#2563eb;">Volunteer / Projects</strong>
