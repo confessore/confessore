@@ -5,7 +5,7 @@
     Full Stack Software Engineer
   </h2>
   <p style="margin:2px 0;font-size:13px;">
-    📧 <a href="mailto:placeholder">placeholder</a> |
+    📧 <a href="mailto:"></a> |
     🔗 <a href="https://linkedin.com/in/confessore">linkedin.com/in/confessore</a> |
     💻 <a href="https://github.com/confessore">github.com/confessore</a>
   </p>
@@ -44,6 +44,7 @@
       <br>
       <strong style="color:#2563eb;">Volunteer / Projects</strong>
       <br>
+        • Non‑Profit Infrastructure – manage infrastructure for organization supporting employment opportunities for individuals with special needs<br>
         • Personal Lab – design & deployment of self‑hosted, containerized services
       <br>
       <br>
@@ -62,6 +63,7 @@
         – <strong>Pulse</strong> – Enterprise data visualization platform enabling reports for labor hours, labor runtime and standards earned. <em style="color:#0891b2;">Blazor WebAssembly, EF Core, OpenID Connect</em><br>
         – <strong>TPAC (Tool Placard Archive & Control)</strong> – Manufacturing compliance system providing tool placard management, revision tracking, and audit capabilities across multiple sites. <em style="color:#0891b2;">Blazor Server, CQRS/MediatR, Clean Architecture, S3 storage</em><br>
         – <strong>TTL (Torque Test & Logging)</strong> – Cross‑platform calibration system providing real‑time equipment monitoring for technicians with auto‑update capabilities. <em style="color:#0891b2;">Avalonia (desktop), Blazor (web), SignalR, MVVM</em><br>
+        – <strong>API (Manufacturing Data Integration)</strong> – Enterprise API aggregating manufacturing data from APRISO (SAP HANA), SAP S/4HANA, and INDYSOFT (IBM Db2) with natural language processing via Model Context Protocol (MCP) server enabling AI‑powered queries for shop floor operations. <em style="color:#0891b2;">Blazor Server, MCP JSON‑RPC, SAP HANA, IBM Db2, Redis caching</em><br>
         – Direct customer collaboration to define requirements and translate business needs into technical solutions.<br>
         – Architect and implement enterprise‑grade, container‑native applications using Kubernetes, ArgoCD, and GitOps practices.<br>
         – Lead development of 12+ concurrent projects spanning manufacturing, data management, and equipment calibration domains.<br>
